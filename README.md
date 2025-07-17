@@ -1,4 +1,4 @@
-# 2048 Game (Enhanced Version)
+# 2048 Game 
 
 This is an advanced version of the classic 2048 game built using Python and Pygame. It includes several modern features like Undo, Theme toggle, Pause/Resume, Timer, Save/Load, and more.
 
