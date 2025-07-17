@@ -79,6 +79,7 @@ python 2048_game.py
 
 
 ## Screenshot
+<img width="685" height="955" alt="2048 game proof" src="https://github.com/user-attachments/assets/9656c19f-4962-4e87-b3c1-759c88fe086a" />
 
-![2048 Game Screenshot](Screenshots/2048%20game%20proof.png)
+
 
